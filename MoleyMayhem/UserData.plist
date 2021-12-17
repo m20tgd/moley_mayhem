@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>High Score</key>
+	<integer>0</integer>
+	<key>Unlocked Moles</key>
+	<dict>
+		<key>Normal</key>
+		<true/>
+		<key>Dummy</key>
+		<true/>
+		<key>Armour</key>
+		<false/>
+		<key>Wrestler</key>
+		<false/>
+		<key>Sister</key>
+		<false/>
+		<key>Bonus</key>
+		<false/>
+	</dict>
+	<key>Stats</key>
+	<dict>
+		<key>GamesPlayed</key>
+		<integer>50</integer>
+		<key>NormalHits</key>
+		<integer>0</integer>
+		<key>DummyHits</key>
+		<integer>0</integer>
+		<key>ArmourHits</key>
+		<integer>0</integer>
+		<key>WrestlerHits</key>
+		<integer>0</integer>
+		<key>SisterHits</key>
+		<integer>0</integer>
+		<key>BonusHits</key>
+		<integer>0</integer>
+		<key>TotalHits</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
